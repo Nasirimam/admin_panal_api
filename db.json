@@ -1,0 +1,26 @@
+{
+  "booking": [
+    {
+      "name": "Nasir",
+      "email": "imamnasir73@gmail.com",
+      "contect": "7667734990",
+      "city": "siwan",
+      "people": "1",
+      "children": "0",
+      "room": "2",
+      "date": "18-12-2022/12:30",
+      "packegeID": "2"
+    },
+    {
+      "name": "Nasir",
+      "email": "imamnasir73@gmail.com",
+      "contect": "7667734990",
+      "city": "siwan",
+      "people": "1",
+      "children": "0",
+      "room": "2",
+      "date": "18-12-2022/12:30",
+      "packegeID": "5"
+    }
+  ]
+}
